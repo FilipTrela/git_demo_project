@@ -12,4 +12,5 @@ public class Student {
   private long numerIndeksu;
   private String imie;
   private String nazwisko;
+
 }
